@@ -25,7 +25,7 @@ export default () => {
     <div>
         <nav className="navbar">
             <form typeof="submit" className="navbar--components" onSubmit={handleSubmit}>
-              <Link to="/">LOGO</Link>
+              <Link to="/">mO</Link>
 
               <div className="navbar--divSearch">
                 <input 
