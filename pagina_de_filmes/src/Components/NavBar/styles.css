@@ -3,6 +3,15 @@
     flex-direction: column;
     overflow: hidden;
 }
+.logo{
+    font-size: 2em;
+    font-weight: 600;
+    color: gray;
+}
+.logo:hover{
+    transition: 1s;
+    color: white;
+}
 .navbar--components{
     display: flex;
     padding: 2.5em;
