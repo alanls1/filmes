@@ -1,0 +1,27 @@
+.category {
+    display: flex;
+    flex-wrap: wrap;
+}
+.category .container--categories {
+   display: grid;
+   grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+   margin-left: 75px;
+}
+.category .category--area{
+    margin-right: 30px;
+    
+}
+
+.category .category--movieImg img{
+    width: 200px;
+    height: 300px;
+}
+.category .category--info{
+    margin-left: 10px;
+    width: 190px;
+    height: 200px;
+}
+
+.category .category--backGoundImg img{
+    width: 180px;
+}

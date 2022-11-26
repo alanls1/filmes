@@ -1,0 +1,53 @@
+.category--h2 {
+    width: 50%;
+    border-bottom: 1px solid ;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.category--area {
+    width: max-content;
+    margin:1em auto;
+    cursor:pointer;
+    position: relative;
+    
+}
+.category--area img{
+    width: max-content;
+    border-radius: 5px;
+}
+
+.category--info{
+    display: none;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px 5px;
+    position: absolute;
+    top: 0;
+    transition: all ease 5s;
+    background: rgb(37, 36, 36);
+    border-radius: 5px;
+    overflow: hidden;
+}
+.category--area:hover .category--info{
+    display: block;
+    transform: scale(1.8);
+    z-index: 1;
+    box-shadow:  -2px 10px 20px 15px rgba(0, 0, 0, 1);
+}
+
+.category--backGoundImg{
+    border-radius: 3px;
+    border-bottom: 1px solid rgba(0, 0, 0, 1);
+    margin-bottom: 2px;
+    width: 100%;
+}
+.category--movieInfo {
+    width: 100%;  
+    margin-top: 5px;
+    font-size: 0.6em;
+}
+.category--movieInfo p{
+    width: 100%;
+    text-overflow: ellipsis;
+}
+    

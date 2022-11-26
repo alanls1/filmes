@@ -1,0 +1,21 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 5em auto;
+    text-align: center;
+}
+
+.details div {
+    margin-top: 1em;
+}
+.details div h2{
+    margin-top: 1em;
+}
+.information h3{
+    margin-top: 1em;
+}
+.information p{
+    margin-top: 0.5em;
+}
+
