@@ -1,5 +1,5 @@
 import React from "react";
-import {BrowserRouter, Routes, Route, Link} from "react-router-dom"
+import {HashRouter, Routes, Route, Link} from "react-router-dom"
 import CategoryPage from "../Components/Categories";
 import App from "../App"
 import Movie from "../Components/Movie"
@@ -7,7 +7,7 @@ import SearchedMovie from "../Components/SearchedMovie";
 
 export default() => {
     return(
-        <BrowserRouter> 
+        <HashRouter> 
             <Routes>
                 <Route 
                     path="/" 
@@ -44,6 +44,6 @@ export default() => {
               
                 
             </Routes>
-        </BrowserRouter>
+        </HashRouter>
     )
 }
