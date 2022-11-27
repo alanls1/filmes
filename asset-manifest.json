@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Filmes/static/css/main.cc44bc4c.css",
+    "main.js": "/Filmes/static/js/main.fadbaf09.js",
+    "index.html": "/Filmes/index.html",
+    "main.cc44bc4c.css.map": "/Filmes/static/css/main.cc44bc4c.css.map",
+    "main.fadbaf09.js.map": "/Filmes/static/js/main.fadbaf09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc44bc4c.css",
+    "static/js/main.fadbaf09.js"
+  ]
+}
