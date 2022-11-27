@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Filmes.github.io/static/css/main.cc44bc4c.css",
-    "main.js": "/Filmes.github.io/static/js/main.fadbaf09.js",
-    "index.html": "/Filmes.github.io/index.html",
-    "main.cc44bc4c.css.map": "/Filmes.github.io/static/css/main.cc44bc4c.css.map",
-    "main.fadbaf09.js.map": "/Filmes.github.io/static/js/main.fadbaf09.js.map"
+    "main.css": "/static/css/main.cc44bc4c.css",
+    "main.js": "/static/js/main.fadbaf09.js",
+    "index.html": "/index.html",
+    "main.cc44bc4c.css.map": "/static/css/main.cc44bc4c.css.map",
+    "main.fadbaf09.js.map": "/static/js/main.fadbaf09.js.map"
   },
   "entrypoints": [
     "static/css/main.cc44bc4c.css",
